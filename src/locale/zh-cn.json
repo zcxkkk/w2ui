@@ -60,7 +60,7 @@
         "Show" : "显示",
         "Hide" : "隐藏",
         "Returned data is not in valid JSON format." : "返回的数据不是有效的JSON格式。",
-        "AJAX error. See console for more details." : "AJAX错误，更多信息查看控制台。",
+        "AJAX error. See console for more details." : "AJAX错误，查看控制台以获取更多信息。",
         "Edit" : "编辑",
         "Server Response" : "服务器响应",
         "Multiple Fields" : "多个字段",
